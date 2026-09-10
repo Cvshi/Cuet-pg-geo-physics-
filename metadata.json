@@ -1,0 +1,6 @@
+{
+  "name": "CUET PG Geophysics Mock Test",
+  "description": "Comprehensive CUET PG Geophysics & Physics preparation portal featuring free topic video classes, lecture notes, formula handbook, 100+ previous year questions, and full NTA CBT mock test simulation with bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
